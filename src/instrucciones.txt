@@ -1,0 +1,23 @@
+Copiar la carpeta en C:\xampp\htdocs
+
+DE PREFERENCIA NO USAR LAS COMPUTADORAS DE LA ESCUELA
+
+NO USAR EL INTERNET DE LA ESCUELA YA QUE BLOQUEA EL REDIRECCIONAMIENTO Y EL ENVIO DE CORREO
+USAR INTERNET DE UN TELEFONO O EL DE INFINITUM
+
+ANTES DE INICIAR XAMPP
+
+Pegar el archivo "php" en la carpeta    C:\xampp\php    remplazando el que ya existe
+Pegar el archivo "sendmai" en la carpeta     C:\xampp\sendmail    remplazando el existente
+
+Iniciar xampp activando Apache y MySQL
+
+Entrar a localhost y despues en phpMyAdmin
+Crear una base llamada netflix
+Importar el archivo "netflix"
+Ingresar a la página escribiendo como URL        localhost/netflix
+
+
+
+
+
